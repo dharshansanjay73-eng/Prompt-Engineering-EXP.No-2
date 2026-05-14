@@ -21,5 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+[EXP-2 prompt.pdf](https://github.com/user-attachments/files/27751576/EXP-2.prompt.pdf)
+
 
 RESULT:
+Thus, the report had been verified and submitted succesfully!!..
